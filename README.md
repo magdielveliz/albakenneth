@@ -6,7 +6,8 @@ Puede ver su funcionamiento en: http://albakeneth.vicepresidencia.gob.gt/ –
 cuenta con herramientas sociales que facilitan la viralización de las alertas.  
 Descripción detallada del menor o persona desaparecida - puede aplicarse a todos los ámbitos.
 Completamente desarrollado para ser visto en todos los dispositivos de escritorio y móviles.  
-Incluye un sistema interno de alarmas desactivadas y estadísticas con gráficos interactivos alimentados por el propio sistema.  
+
+Incluye un sistema interno de alarmas desactivadas (http://albakeneth.vicepresidencia.gob.gt/alba-keneth-inactivas) y estadísticas con gráficos interactivos alimentados por el propio sistema.  (http://albakeneth.vicepresidencia.gob.gt/estad-sticas-alba-keneth/genero y http://albakeneth.vicepresidencia.gob.gt/estad-sticas-alba-keneth/departamento )
 
 Además incluye un sistema de integración de metadatos, palabras clave, SEO y SEM 
 (orientados y perfectamente orientado a mostrar campos fotográficos e informativos del niño o persona desaparecido 
