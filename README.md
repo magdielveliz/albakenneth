@@ -15,7 +15,7 @@ en redes sociales y de comunicación instantánea).
 
 Funciona con Drupal 7 (https://www.drupal.org/project/drupal/releases/7.56)
 Una vez descargado el sistema de archivos sobre el nuevo servidor, ACTUALIZAR EL CORE, para que peguen los archivos .httaccess
-y otros ocultos que harán que todo funcione, especialmente los URL limpios y conexión relativa.
+y otros ocultos que harán que todo funcione, especialmente los URL limpios y conexión relativa.  Ademas enlazar a una base de datos con la creación del archivo de configuración en: /sites/default/settings.php donde debe indicarse la base de datos, usuario y contraseña con todos los priviligios, y a esta base de datos haber importado previamente la estructura y datos ejemplo dada en el archivo database.sql
 
 Un ejemplo del motor que podrá mejorar es http://www.alertaamber.gob.mx/ que funciona con PDF, este Sistema administrador y corrido
 sobre drupal mejorará todo en cuanto a la viralización y visualización de las alertas.
