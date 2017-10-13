@@ -1,5 +1,5 @@
 # albakenneth
-Proyecto Alba-Kenneth para búsqueda de menores desaparecidos
+Proyecto Alba-Kenneth para búsqueda de menores desaparecidos - pudiendo adaptarse a cualquier tipo de busqueda de personas
 
 Plataforma online administrable para la publicación de alertas de menores desaparecidos alba-keneth 
 Puede ver su funcionamiento en: http://albakeneth.vicepresidencia.gob.gt/ – 
